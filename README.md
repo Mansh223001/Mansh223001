@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manshvi Gautam</h1>
-<h3 align="center">Aspiring Full Stack Developer | GATE 2026 Aspirant</h3>
+<h3 align="center">Aspiring Full Stack Developer </h3>
 
 ---
 
@@ -7,7 +7,6 @@
 
 - 🎓 BTech Student
 - 💻 Learning Full Stack Development
-- 📚 Preparing for GATE 2026
 - 🌱 Currently learning Backend Development
 - ⚡ Interested in Web Development and Problem Solving
 
@@ -43,8 +42,8 @@ Git | GitHub | VS Code
 
 ### 📫 Connect With Me
 
-LinkedIn: (Add your LinkedIn link)  
-Email: (Add your email)
+LinkedIn: www.linkedin.com/in/manshvi-gautam-30j1
+Email: manshvigautam2002@gmail.com
 
 ---
 
